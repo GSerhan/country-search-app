@@ -1,5 +1,3 @@
-# FILE: /country-search-app/country-search-app/README.md
-
 # Country Search App
 
 ## Overview
